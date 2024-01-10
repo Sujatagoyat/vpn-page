@@ -663,6 +663,20 @@
     /* 187.5% */
 }
 
+.svg-box-f {
+    border: 2px solid var(--fc-white);
+    background-color: var(--fc-white);
+    border-radius: 50%;
+    width: 33px;
+    height: 33px;
+}
+.footer-svg {
+    transition: all 300ms linear;
+}
+
+.footer-svg:hover {
+    transform: translateY(-16%);
+}
 
 
 
